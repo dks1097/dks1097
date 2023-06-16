@@ -1,10 +1,4 @@
 ### Hello 👋
-
-<div align="center">
-  <a href="https://github.com/dks1097">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=dks1097&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=000000&text_color=ffffff&icon_color=990000&bg_color=135,bf894e,996328,8c5315,995000,151826&border_radius=15&border_color=f55520&custom_title=My GitHub stats"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dks1097&layout=demo&langs_count=5&theme=radical&title_color=000000&text_color=ffffff&bg_color=315,bf894e,996328,8c5315,995000,151826&border_radius=15&border_color=f55520"/>
-</div>
   <div align="center"> 
     <h1>Socials</h1>
     <a href="https://www.linkedin.com/in/carlos-monteiro-77b315222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
